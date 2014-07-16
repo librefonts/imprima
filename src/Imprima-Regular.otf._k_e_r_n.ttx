@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont ttLibVersion="2.4">
+
+  <kern>
+    <version value="0"/>
+    <kernsubtable coverage="1" format="0">
+      <pair l="A" r="C" v="-20"/>
+      <pair l="A" r="T" v="-45"/>
+      <pair l="A" r="V" v="-25"/>
+      <pair l="A" r="W" v="-20"/>
+      <pair l="A" r="Y" v="-55"/>
+      <pair l="A" r="quotedbl" v="-40"/>
+      <pair l="A" r="quotedblright" v="-50"/>
+      <pair l="A" r="v" v="-18"/>
+      <pair l="A" r="w" v="-18"/>
+      <pair l="F" r="A" v="-45"/>
+      <pair l="F" r="period" v="-92"/>
+      <pair l="L" r="T" v="-60"/>
+      <pair l="L" r="V" v="-70"/>
+      <pair l="L" r="W" v="-60"/>
+      <pair l="L" r="Y" v="-90"/>
+      <pair l="L" r="quotedbl" v="-60"/>
+      <pair l="L" r="quotedblright" v="-70"/>
+      <pair l="L" r="v" v="-60"/>
+      <pair l="L" r="w" v="-50"/>
+      <pair l="O" r="A" v="-20"/>
+      <pair l="P" r="A" v="-45"/>
+      <pair l="P" r="period" v="-129"/>
+      <pair l="R" r="Y" v="-18"/>
+      <pair l="T" r="A" v="-45"/>
+      <pair l="T" r="a" v="-45"/>
+      <pair l="T" r="c" v="-75"/>
+      <pair l="T" r="colon" v="-55"/>
+      <pair l="T" r="hyphen" v="-55"/>
+      <pair l="T" r="period" v="-55"/>
+      <pair l="T" r="s" v="-55"/>
+      <pair l="T" r="semicolon" v="-55"/>
+      <pair l="T" r="v" v="-75"/>
+      <pair l="T" r="w" v="-65"/>
+      <pair l="V" r="A" v="-25"/>
+      <pair l="V" r="AE" v="-70"/>
+      <pair l="V" r="c" v="-30"/>
+      <pair l="V" r="period" v="-55"/>
+      <pair l="W" r="A" v="-20"/>
+      <pair l="W" r="AE" v="-60"/>
+      <pair l="W" r="c" v="-20"/>
+      <pair l="W" r="period" v="-45"/>
+      <pair l="Y" r="A" v="-55"/>
+      <pair l="Y" r="AE" v="-95"/>
+      <pair l="Y" r="c" v="-70"/>
+      <pair l="Y" r="colon" v="-18"/>
+      <pair l="Y" r="hyphen" v="-37"/>
+      <pair l="Y" r="period" v="-65"/>
+      <pair l="Y" r="semicolon" v="-18"/>
+      <pair l="quotedbl" r="A" v="-40"/>
+      <pair l="quotedblleft" r="A" v="-50"/>
+      <pair l="r" r="hyphen" v="-55"/>
+      <pair l="r" r="period" v="-74"/>
+      <pair l="v" r="period" v="-55"/>
+      <pair l="w" r="period" v="-45"/>
+    </kernsubtable>
+  </kern>
+
+</ttFont>
